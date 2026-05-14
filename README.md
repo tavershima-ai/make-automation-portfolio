@@ -52,6 +52,7 @@ grow faster using the power of AI and automation.
 **Status:** Complete
 **Tools:** Google Forms, Google Sheets, Gmail
 **Modules:** 3
+![Workflow 1](Workflow%201%20%E2%80%94%20Lead%20Capture%20Automation.png)
 
 **What it does:**
 Automatically captures customer enquiries submitted via
@@ -76,6 +77,7 @@ comes in.
 **Status:** Complete
 **Tools:** Google Sheets, Gmail
 **Modules:** 4 + Filter
+![Workflow 2](Workflow%202%20%E2%80%94%20Invoice%20Alert%20System.png)
 
 **What it does:**
 Monitors an Invoice Tracker Google Sheet for new unpaid
@@ -101,6 +103,7 @@ invoice is logged.
 **Status:** Complete
 **Tools:** Google Sheets, Gmail
 **Modules:** 9 (3 Gmail + 3 Sleep + 2 Google Sheets Update + 1 Filter)
+![Workflow 3](Workflow%203%20%E2%80%94%20Multi-Touch%20Invoice%20Follow%20Up%20System.png)
 
 **What it does:**
 An advanced invoice follow up system that sends a sequence
